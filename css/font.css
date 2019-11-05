@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'PT Sans', sans-serif; 
+    /* font-family: 'Cuprum', sans-serif; */
+ src: url(fonts/PT_Sans/PTSans-Regular.ttf); 
+
+}
+
+* {
+    font-family: PT Sans;
+}
+
